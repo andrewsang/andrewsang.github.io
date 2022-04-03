@@ -1,0 +1,13 @@
+# Andrew Sang
+sang76@uw.edu
+
+# Summary
+Hello! I am a UW Geography (GIS + Data Science) student. I am looking for technical roles with companies producing innovative and distruptive new technologies.
+
+## Education
+**University of Washington - Seattle**
+BA in Geography // Geographic Information Systems
+
+## Work Experience
+**Associate at Amazon Go**
+Responsible for opening new large format store
