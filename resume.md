@@ -20,4 +20,4 @@ BA in Geography // Geographic Information Systems
 **UPass advisory board**
 Board member of the UPASS advisory board, and worked to administer the UPASS program
 
-![Portrait of me](img/portrait.png)
+![Portrait of me](pics/portrait.png)
