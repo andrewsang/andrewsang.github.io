@@ -15,6 +15,7 @@ Kitchen staff
 
 **Associate at Amazon Go**
 Responsible for opening new large format store
+* Stocking
 
 **UPass advisory board**
 Board member of the UPASS advisory board, and worked to administer the UPASS program
